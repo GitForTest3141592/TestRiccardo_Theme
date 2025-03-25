@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: Questo è il titolo della mia pagina
 
 # Your name to show in the footer
-author: Some Person
+author: Riccardo Macik redde
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Guarda Gajarda: "https://github.com/GitForTest3141592"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
